@@ -7,8 +7,6 @@ int alphnr(char letter);
 
 int main(int gavc, string argv[])
 {
-    if()
-
     char key[26] = {};
 
     for (int j = 0; j < 26; j++)
